@@ -1,0 +1,16 @@
+{
+  "name": "them-bootstrap",
+  "version": "1.0.0",
+  "description": "Theme Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Web",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-select": "^1.13.17",
+    "jquery": "^3.5.1"
+  }
+}
